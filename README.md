@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and aims to be a full stack developer.
 - 🌱 I’m currently learning front-end develoment.
 - 💞️ I’m looking to collaborate on front-end development
-- 📫 How to reach me ... you can email me or message me directly.
+- 📫 How to reach me ...Email : m.chsallu87@gmail.com contact +923036039298
 
 <!---
 Sallu-sb/Sallu-sb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
