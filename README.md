@@ -1,4 +1,4 @@
-- 👋 Hi, I’m https://portfolio-git-main-islahuddin.vercel.app/
+- 👋 Hi, I’m https://portfolio-islahuddin.vercel.app/
 - 👀 I’m interested in coding and aims to be a full stack developer.
 - 🌱 I’m currently learning MERN stack develoment.
 - 💞️ I’m looking to collaborate on front-end development
