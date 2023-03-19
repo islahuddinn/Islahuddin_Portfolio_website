@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sallu-sb
+- 👋 Hi, I’m https://portfolio-git-main-islahuddin.vercel.app/
 - 👀 I’m interested in coding and aims to be a full stack developer.
-- 🌱 I’m currently learning front-end develoment.
+- 🌱 I’m currently learning MERN stack develoment.
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me ...Email : m.chsallu87@gmail.com contact +923036039298
 
